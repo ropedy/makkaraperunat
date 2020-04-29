@@ -4,3 +4,17 @@
   width: 360px;
   padding: 10px;
 }
+
+.board.active {
+  background-color: lightgreen;
+  height: 360px;
+  width: 360px;
+  padding: 10px;
+}
+
+.board.completed {
+  background-color: green;
+  height: 360px;
+  width: 360px;
+  padding: 10px;
+}

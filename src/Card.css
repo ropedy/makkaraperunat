@@ -10,6 +10,11 @@
   text-align: center;
 }
 
+.card.revealed {
+  background-color: darkgreen;
+  pointer-events: none;
+}
+
 .card:hover {
   background-color: rgb(224, 84, 112);
 }
