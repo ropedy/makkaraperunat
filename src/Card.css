@@ -1,0 +1,15 @@
+.card {
+  display: inline-block;
+  background-color: #DC143C;
+  cursor: pointer;
+  margin: 10px;
+  padding: 10px;
+  height: 50px;
+  width: 50px;
+  font-size: 50px;
+  text-align: center;
+}
+
+.card:hover {
+  background-color: rgb(224, 84, 112);
+}
